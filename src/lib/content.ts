@@ -5,8 +5,8 @@ export const site = {
   email: "palomaabdurramani@gmail.com",
   phone: "+355 69 755 9854",
   github: "https://github.com/PalomaAbdurramaniGitHub",
-  linkedin: "https://www.linkedin.com/in/palomaabdurramani-040046234",
-  resume: "/Paloma-Abdurramani-CV.pdf",
+  linkedin: "https://www.linkedin.com/in/paloma-abdurramani-040046234",
+  resume: "/Paloma_Abdurramani_Resume.pdf",
   tagline:
     "Reliable data systems and backend services — built for production.",
   summary:
